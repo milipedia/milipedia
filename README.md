@@ -1,49 +1,99 @@
-<h1 align="center">👩‍💻 Bianca Silva</h1>
+# 👩‍💻 Bianca Silva
 
-<p align="center">
-  Desenvolvedora Back-End em formação | Python Lover 🐍 | Apaixonada por resolver problemas com código
-</p>
+**Estudante de Engenharia de Software | Back-End em formação | Python & Java Developer**
 
 ---
 
-### ✨ Sobre mim
+## ✨ Sobre mim
 
-Oi! Eu sou a Bia :)  
-Atualmente estou focada no desenvolvimento Back-End, principalmente com Python.  
-Gosto de transformar ideias em soluções práticas, automatizar processos e deixar tudo organizadinho com código (e planilhas, claro!).
+Oi! Eu sou a Bia :)
+Sou estudante de Engenharia de Software e apaixonada por resolver problemas com código. Atualmente foco no **desenvolvimento Back-End**, estudando e desenvolvendo projetos em **Python** e **Java**, sempre buscando aplicar boas práticas, organização e clareza no código.
 
-🔍 **Interesses atuais**:
-- Lógica de programação e estruturas de dados  
-- Projetos em Python voltados para automação e análise de dados  
-- APIs REST, Streamlit, Tkinter e integração com ferramentas do dia a dia  
-- Organização financeira (planilhas inteligentes são minha paixão 💚)
+Gosto de transformar ideias em soluções úteis, construir automações que facilitam o dia a dia e desenvolver pequenos sistemas que ajudam na produtividade. Também adoro manter tudo bem estruturado — seja nos meus projetos ou nas minhas planilhas ♥
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 🔍 Interesses atuais
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=milipedia&show_icons=true&theme=chartreuse-dark&hide_border=true&icon_color=88cc88" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milipedia&layout=compact&theme=chartreuse-dark&hide_border=true" />
-</p>
-
----
-
-### 🌱 Em constante aprendizado...
-
-Faço parte de bootcamps, estudo todos os dias e estou sempre buscando evoluir.  
-Se quiser trocar uma ideia ou acompanhar meu progresso, me chama lá no LinkedIn!
+* 🧠 **Lógica de Programação** e **Estruturas de Dados**
+* 🐍 **Python** (automação, análise de dados, utilitários)
+* ☕ **Java** (POO, coleções, APIs, aplicações de console e web)
+* 🌐 **APIs REST** e integração entre serviços
+* 🖥️ Ferramentas como **Streamlit**, **Tkinter** e projetos pessoais de produtividade
+* 📊 Organização financeira e sistemas simples para gestão
 
 ---
 
-### 🌐 Vamos nos conectar?
+## 🚀 O que estou estudando agora
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/bianca-silva-774b96144/">
-    <img src="https://img.shields.io/badge/LinkedIn-Bianca%20Silva-556B2F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn da Bia" />
-  </a>
-</div>
+* Engenharia de Software (faculdade)
+* Iniciativa **ONE**
+* Projetos pessoais em Python e Java
+* Práticas de versionamento, documentação e organização de projetos
+
+Sempre buscando evoluir um pouquinho todo dia, construindo projetos reais para aprendizado sólido.
 
 ---
 
-<p align="center"><i>🌟 "Se você pode sonhar, você pode realizar." 🌟</i></p>
+## 🛠️ Tecnologias & Ferramentas
+
+### **Linguagens**
+
+* 🐍 Python
+* ☕ Java
+* 💻 JavaScript (iniciando)
+
+### **Ferramentas & Tecnologias**
+
+* Git & GitHub
+* Streamlit
+* Tkinter
+* APIs REST
+* VS Code
+
+---
+
+## 📛 Badges
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+
+---
+
+## 📚 Projetos em Destaque
+
+> *(Você pode me pedir para preencher aqui depois com os seus projetos reais)*
+
+* 🔹 **Sistema de Automação em Python** – Scripts para tarefas do dia a dia.
+* 🔹 **Aplicações em Java** – Exercícios de POO, coleções e desafios.
+* 🔹 **Mini Apps com Streamlit** – Interfaces simples para produtividade.
+
+---
+
+## 📚 Projetos em Destaque
+
+* 🔹 **Portfolio Pessoal** – Meu site pessoal reunindo projetos, estudos e trajetória na área de tecnologia. *(Adicionar link quando estiver publicado!)*
+* 🔹 **Sistema de Automação em Python** – Scripts para tarefas do dia a dia.
+* 🔹 **Aplicações em Java** – Exercícios de POO, coleções e desafios.
+* 🔹 **Mini Apps com Streamlit** – Interfaces simples para produtividade.
+
+---
+
+## 📊 Estatísticas do GitHub
+![Bia GitHub Stats](https://github-readme-stats.vercel.app/api?username=milipedia&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milipedia&layout=compact&theme=dracula)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=milipedia&theme=dracula)
+
+
+---
+
+## 🌐 Vamos nos conectar?
+
+📎 **LinkedIn:** [[https://www.linkedin.com](https://www.linkedin.com/in/silva-bianca)]
+
+---
+
+🌟 *"Se você pode sonhar, você pode realizar."* 🌟
