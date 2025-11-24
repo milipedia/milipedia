@@ -106,7 +106,7 @@ Git        █████████████░░░  85%
 
 ## 🌐 Vamos nos conectar?
 
-📎 **LinkedIn:** (https://www.linkedin.com/in/silva-bianca)
+📎 **LinkedIn:**[Bianca Silva] (https://www.linkedin.com/in/silva-bianca)
 
 ---
 
