@@ -101,7 +101,6 @@ Git        █████████████░░░  85%
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milipedia&layout=compact&hide_border=true&theme=transparent)
 
-
 ---
 
 ## 🌐 Vamos nos conectar?
