@@ -63,6 +63,33 @@ Sempre buscando evoluir um pouquinho todo dia, construindo projetos reais para a
 
 ---
 
+## 🧠 Painel de Progresso por Tecnologia
+
+```
+Python     ████████████░░░░  75%
+Java       ████████░░░░░░░░  55%
+HTML/CSS   ██████████░░░░░░  65%
+Git        █████████████░░░  85%
+```
+
+---
+
+## 🧰 Stack Atual
+
+**Backend**
+`Python` · `Java` · `APIs REST`
+
+**Ferramentas**
+`Git` · `GitHub` · `VS Code`
+
+**Interfaces & Utilitários**
+`Streamlit` · `Tkinter`
+
+**Focando agora**
+`POO` · `Estruturas de Dados` · `Projetos de Portfólio`
+
+---
+
 ## 📚 Projetos em Destaque
 
 > *(Você pode me pedir para preencher aqui depois com os seus projetos reais)*
@@ -83,16 +110,26 @@ Sempre buscando evoluir um pouquinho todo dia, construindo projetos reais para a
 ---
 
 ## 📊 Estatísticas do GitHub
-![Bia GitHub Stats](https://github-readme-stats.vercel.app/api?username=milipedia&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milipedia&layout=compact&theme=dracula)
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=milipedia&theme=dracula)
 
+### 🔥 Contribuições
+
+```md
+![Contribuições](https://streak-stats.demolab.com?user=milipedia&theme=transparent&hide_border=true)
+```
+
+### 🧠 Linguagens mais usadas
+
+```md
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milipedia&layout=compact&hide_border=true&theme=transparent)
+```
+
+(*Adicione seus cards aqui quando quiser*)
 
 ---
 
 ## 🌐 Vamos nos conectar?
 
-📎 **LinkedIn:** [[https://www.linkedin.com](https://www.linkedin.com/in/silva-bianca)]
+📎 **LinkedIn:** [https://www.linkedin.com/in/silva-bianca](https://www.linkedin.com/in/silva-bianca)
 
 ---
 
