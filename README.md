@@ -96,11 +96,6 @@ Git        █████████████░░░  85%
 
 ![Contribuições](https://streak-stats.demolab.com?user=milipedia&theme=transparent&hide_border=true)
 
-### 🧠 Linguagens mais usadas
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milipedia&layout=compact&hide_border=true&theme=transparent)
-
 ---
 
 ## 🌐 Vamos nos conectar?
