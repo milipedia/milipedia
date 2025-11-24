@@ -90,46 +90,23 @@ Git        █████████████░░░  85%
 
 ---
 
-## 📚 Projetos em Destaque
-
-> *(Você pode me pedir para preencher aqui depois com os seus projetos reais)*
-
-* 🔹 **Sistema de Automação em Python** – Scripts para tarefas do dia a dia.
-* 🔹 **Aplicações em Java** – Exercícios de POO, coleções e desafios.
-* 🔹 **Mini Apps com Streamlit** – Interfaces simples para produtividade.
-
----
-
-## 📚 Projetos em Destaque
-
-* 🔹 **Portfolio Pessoal** – Meu site pessoal reunindo projetos, estudos e trajetória na área de tecnologia. *(Adicionar link quando estiver publicado!)*
-* 🔹 **Sistema de Automação em Python** – Scripts para tarefas do dia a dia.
-* 🔹 **Aplicações em Java** – Exercícios de POO, coleções e desafios.
-* 🔹 **Mini Apps com Streamlit** – Interfaces simples para produtividade.
-
----
-
 ## 📊 Estatísticas do GitHub
 
 ### 🔥 Contribuições
 
-```md
 ![Contribuições](https://streak-stats.demolab.com?user=milipedia&theme=transparent&hide_border=true)
-```
 
 ### 🧠 Linguagens mais usadas
 
-```md
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milipedia&layout=compact&hide_border=true&theme=transparent)
-```
 
-(*Adicione seus cards aqui quando quiser*)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milipedia&layout=compact&hide_border=true&theme=transparent)
+
 
 ---
 
 ## 🌐 Vamos nos conectar?
 
-📎 **LinkedIn:** [https://www.linkedin.com/in/silva-bianca](https://www.linkedin.com/in/silva-bianca)
+📎 **LinkedIn:** (https://www.linkedin.com/in/silva-bianca)
 
 ---
 
