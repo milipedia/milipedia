@@ -1,6 +1,6 @@
 # 👩‍💻 Bianca Silva
 
-**Estudante de Engenharia de Software | Back-End em formação | Python & Java Developer**
+**Estudante de Ciencias da Computação | Back-End em formação | Python & Java Developer**
 
 ---
 
