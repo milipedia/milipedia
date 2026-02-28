@@ -7,7 +7,7 @@
 ## ✨ Sobre mim
 
 Oi! Eu sou a Bia :)
-Sou estudante de Engenharia de Software e apaixonada por resolver problemas com código. Atualmente foco no **desenvolvimento Back-End**, estudando e desenvolvendo projetos em **Python** e **Java**, sempre buscando aplicar boas práticas, organização e clareza no código.
+Sou estudante de Ciencias da computação e apaixonada por resolver problemas com código. Atualmente foco no **desenvolvimento Back-End**, estudando e desenvolvendo projetos em **Python** e **Java**, sempre buscando aplicar boas práticas, organização e clareza no código.
 
 Gosto de transformar ideias em soluções úteis, construir automações que facilitam o dia a dia e desenvolver pequenos sistemas que ajudam na produtividade. Também adoro manter tudo bem estruturado — seja nos meus projetos ou nas minhas planilhas ♥
 
